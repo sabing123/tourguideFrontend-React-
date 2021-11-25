@@ -1,0 +1,27 @@
+.popup {  
+    position: absolute;  
+    width: 75%;  
+    height: 75%;  
+    top: 0;  
+    left: 0;  
+    right: 0;  
+    bottom: 0;  
+    margin: auto;
+    margin-right: 18px;
+    padding: 10px;
+    color: greenyellow;  
+    background-color:blueviolet;
+    border-radius: 10px !important; 
+  }  
+  .popup\_inner {  
+    position: absolute;  
+    left: 25%;  
+    right: 25%;  
+    top: 25%;  
+    bottom: 25%;  
+    margin: auto;  
+    margin-left: 100px;
+    border-radius: 20px; 
+    color: aliceblue; 
+    background: rgb(241, 20, 20);  
+  }

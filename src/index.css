@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.bg {
+  background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).jpg");
+  margin-left: -200px;
+  height: 100vh;
+  width: 209vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  }
+
+  
+.signupbg {
+  background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(11).jpg");
+  margin-left: -200px;
+  height: 100vh;
+  width: 209vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+  
+  }
